@@ -1,0 +1,19 @@
+import React from "react";
+
+const Example = () => {
+  const data = [
+    { genre: "Sports", sold: 275 },
+    { genre: "Strategy", sold: 115 },
+    { genre: "Action", sold: 120 },
+    { genre: "Shooter", sold: 350 },
+    { genre: "Other", sold: 150 },
+  ];
+
+  return (
+    <div>
+      <h1>hh</h1>
+    </div>
+  );
+};
+
+export default Example;
